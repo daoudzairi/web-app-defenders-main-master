@@ -7,7 +7,7 @@
         <div class="w-full">
 
             <div class="text-center py-16">
-                <span class="uppercase text-4xl font-extrabold text-gray-600"> WELCOME to BLOGAPP Daoud</span>
+                <span class="uppercase text-4xl font-extrabold text-gray-600"> WELCOME to BLOGAPP</span>
                 <h2 class=" text-2xl font-extrabold text-gray-600">It is a place to Write, Read and Like </h2>
                 <img src="https://raitech.co.tz/assets/img/web.jpg" width="600" alt=""/>
                 <p class=" text-2xl font-extrabold text-gray-600">It is easy and free to post your story on any topic and connect with millions of readers</p>
